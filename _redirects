@@ -1,0 +1,7 @@
+# Redirect rules for Cloudflare Pages
+/about /pages/about.html 200
+/contact /pages/contact.html 200
+/demo /pages/demo.html 200
+
+# Fallback for SPA-like behavior (optional)
+/* /index.html 200
