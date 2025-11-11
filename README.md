@@ -1,6 +1,6 @@
 # repoIQ.net - AI-Powered Code Quality Analysis
 
-A modern, responsive website for repoIQ, an AI-powered code quality analysis platform inspired by SonarCloud.
+A modern, responsive website for repoIQ, an AI-powered code quality analysis platform.
 
 ## 🚀 Features
 
